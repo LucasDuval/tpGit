@@ -11,6 +11,7 @@ package sigmalis.mavenproject2;
  */
 public class NewClass {
 	int monInt;
+        String string;
 
 	public int getMonInt() {
 		return monInt;
